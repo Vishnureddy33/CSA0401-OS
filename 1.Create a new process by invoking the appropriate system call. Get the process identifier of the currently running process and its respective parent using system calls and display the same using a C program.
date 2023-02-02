@@ -1,0 +1,15 @@
+#include<stdio.h>
+#include<unistd.h>
+int main()
+{
+  printf("Process ID: %d\n", getpid() );
+  printf("Parent Process ID: %d\n", getpid() );
+  return 0;
+}
+OUTPUT:
+Process ID: 23644
+Parent Process ID: 23644
+
+--------------------------------
+Process exited after 0.07121 seconds with return value 25
+Press any key to continue . . .
