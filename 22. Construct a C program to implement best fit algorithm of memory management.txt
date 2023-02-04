@@ -1,9 +1,3 @@
-Narendra378
-/
-CSA0489-OS
-Public
-Code
-
 #include<stdio.h>
 #include<conio.h>
 #define max 25
