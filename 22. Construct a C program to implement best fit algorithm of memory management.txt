@@ -3,18 +3,7 @@ Narendra378
 CSA0489-OS
 Public
 Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-CSA0489-OS/22. Construct a C program to implement best fit algorithm of memory management.txt
-@Narendra378
-Narendra378 output
-…
- 1 contributor
-49 lines (47 sloc)  837 Bytes
+
 #include<stdio.h>
 #include<conio.h>
 #define max 25
